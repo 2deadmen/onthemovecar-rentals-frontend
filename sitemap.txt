@@ -1,0 +1,9 @@
+https://www.onthemovecarrental.com/
+https://www.onthemovecarrental.com/home
+https://www.onthemovecarrental.com/about
+https://www.onthemovecarrental.com/cars
+https://www.onthemovecarrental.com/blogs
+https://www.onthemovecarrental.com/contact
+https://www.onthemovecarrental.com/blogs/:slug
+https://www.onthemovecarrental.com/cars/:slug
+https://www.onthemovecarrental.com/notfound
